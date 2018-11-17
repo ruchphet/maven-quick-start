@@ -1,8 +1,11 @@
 package clinic.programming.training;
 
+import java.util.ArrayList;
+
 public class Application {
     
     public Application() {
+		ArrayList<String> aa = new ArrayList<>();
         System.out.println ("Inside Application");
     }
 
